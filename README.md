@@ -143,7 +143,7 @@ Indicates active code execution, not passive I/O.
 ## DISCLOSURE TIMELINE
 
 2026-01-20: Vulnerability discovered  
-2026-01-21: Coordinated disclosure initiated (US-CERT:VRF#26-01-PNYWF)  
+2026-01-20: Disclosure initiated (US-CERT:VRF#26-01-PNYWF)  
 
 ---
 
