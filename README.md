@@ -3,8 +3,7 @@
 **CVE-ID:** TBD
 **CVSS v3.1:** 9.8 CRITICAL (AV:P/AC:L/PR:N/UI:N/S:C/C:H/I:H/A:H)  
 **VENDOR:** Texas Instruments Incorporated  
-**COMPONENT:** SN27xxx Series Battery Fuel Gauge IC  
-**PLATFORM:** iPhone 15 Pro Max (A17 Pro, iOS 17.x)  
+**COMPONENT:** SN27xxx Series Battery Fuel Gauge IC   
 **DISCOVERY DATE:** 2026-01-20  
 
 ---
@@ -38,7 +37,7 @@ OTP security fuses in TI SN27xxx BMS remain unprogrammed in production hardware,
 
 **DATA SOURCE:** PowerLog database `powerlog_2025-03-01_21-47_4301A327.PLSQL`  
 **ANALYSIS PERIOD:** 2025-03-02 01:19:14 - 02:47:27 UTC  
-**DEVICE:** iPhone 15 Pro Max, Serial
+**DEVICE:** iPhone 15 Pro Max
 
 ### ARTIFACT A: SPU Factory Command Execution
 
@@ -144,7 +143,7 @@ Indicates active code execution, not passive I/O.
 ## DISCLOSURE TIMELINE
 
 2026-01-20: Vulnerability discovered  
-2026-01-21: Coordinated disclosure initiated (US-CERT)  
+2026-01-21: Coordinated disclosure initiated (US-CERT:VRF#26-01-PNYWF)  
 
 ---
 
