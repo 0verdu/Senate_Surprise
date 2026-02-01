@@ -1,6 +1,6 @@
 # TI SN27xxx: Unrestricted Hardware Debug Interface
 
-**CVE-ID:** TBD
+**CVE-ID:** 2026-25251
 **CVSS v3.1:** 9.8 CRITICAL (AV:P/AC:L/PR:N/UI:N/S:C/C:H/I:H/A:H)  
 **VENDOR:** Texas Instruments Incorporated  
 **COMPONENT:** SN27xxx Series Battery Fuel Gauge IC   
@@ -141,8 +141,9 @@ Indicates active code execution, not passive I/O.
 ---
 
 ## DISCLOSURE TIMELINE
-  
-2026-01-20: Disclosure initiated (US-CERT Case: VU#132084)  
+
+2026-01-20: Disclosed via VINCE portal (US-CERT Case: VU#132084)
+2026-02-01: CVE Assigned 2026-25251
 
 ---
 
