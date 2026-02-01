@@ -142,8 +142,8 @@ Indicates active code execution, not passive I/O.
 
 ## DISCLOSURE TIMELINE
 
-2026-01-20: Disclosed via VINCE portal (US-CERT Case: VU#132084)
-2026-02-01: CVE Assigned 2026-25251
+- **2026-01-20**: Disclosed via VINCE portal (US-CERT Case: VU#132084)
+- **2026-02-01**: Assigned **CVE-2026-25251**
 
 ---
 
