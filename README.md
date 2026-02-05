@@ -127,8 +127,8 @@ Indicates active code execution, not passive I/O.
 - Supply chain implant (compromised batteries)
 
 **AFFECTED POPULATION:**
-- Confirmed: ≥1 iPhone 15 Pro Max
-- Potential: Unknown (requires batch analysis to determine if targeted or systemic)
+- Confirmed: ≥ iPhone 15 Pro Max Series
+- Potential: Unknown (requires batch analysis to determine scope)
 
 ---
 
